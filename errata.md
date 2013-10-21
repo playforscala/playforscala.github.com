@@ -5,6 +5,8 @@ title: Errata
 
 # Errata
 
+This page lists errata for [Play for Scala](http://manning.com/hilton/), first edition (October 2013).
+
 
 ## Chapter 1
 
