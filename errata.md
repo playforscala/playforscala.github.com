@@ -7,7 +7,6 @@ title: Errata
 
 This page lists errata for [Play for Scala](http://manning.com/hilton/), first edition (October 2013).
 
-
 ## Chapter 1
 
 
@@ -27,6 +26,14 @@ This page lists errata for [Play for Scala](http://manning.com/hilton/), first e
 
 
 ## Chapter 7
+
+Section 7.4.6, page 192. The sentence 
+
+> The keys of the data that you bind to this form are of the form `main_contact.name`, `main_contact.email`, then `technical_contact.text`, `technical_contact.email`, and finally `administrative_contact.text` and `administrative_contact.email`."
+
+should be
+
+> The keys of the data that you bind to this form are of the form `main_contact.name`, `main_contact.email`, then `technical_contact.name`, `technical_contact.email`, and finally `administrative_contact.name` and `administrative_contact.email`."
 
 
 ## Chapter 8
