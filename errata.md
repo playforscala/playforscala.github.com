@@ -44,4 +44,10 @@ should be
 
 ## Chapter 10
 
+Section 10.4.1, page 287. The question mark (?) in the sentence 
 
+> BodyParser is a trait that extends (RequestHeader) ? Iteratee[Array[Byte], Either[Result, A]].
+
+should be a Unicode “RIGHTWARDS DOUBLE ARROW” (⇒)  or, alternatively the ASCII equivalent (=>)
+
+> BodyParser is a trait that extends (RequestHeader) ⇒ Iteratee[Array[Byte], Either[Result, A]].
